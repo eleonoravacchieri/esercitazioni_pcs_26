@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/prog1.dir/link.d CMakeFiles/prog1.dir/pos_memoria.cpp.o -o prog1

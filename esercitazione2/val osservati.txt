@@ -1,0 +1,12 @@
+esercizio 1
+
+cosa stampa con g++:
+
+0x7fff998e1ca0
+0x7fff998e1c60
+0
+cosa stampa con clang++:
+
+0x7ffd667ddb80
+0x7ffd667ddb40
+0

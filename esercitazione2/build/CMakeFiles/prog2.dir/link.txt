@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/prog2.dir/link.d CMakeFiles/prog2.dir/algoritmi2.cpp.o -o prog2
