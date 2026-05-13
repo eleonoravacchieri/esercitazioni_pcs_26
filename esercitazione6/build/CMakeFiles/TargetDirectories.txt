@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione6/build/CMakeFiles/test_graph.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione6/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione6/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione6/build/CMakeFiles/rebuild_cache.dir
