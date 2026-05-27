@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione8/build/CMakeFiles/gradiente_coniugato.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione8/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione8/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazioni_pcs_26/esercitazione8/build/CMakeFiles/rebuild_cache.dir
