@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/programma.dir/circuiti.cpp.o -o programma
